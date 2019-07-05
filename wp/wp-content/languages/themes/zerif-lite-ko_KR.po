@@ -1,0 +1,1984 @@
+# Translation of Themes - Zerif Lite in Korean
+# This file is distributed under the same license as the Themes - Zerif Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-27 03:51:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Zerif Lite\n"
+
+#. Description of the theme
+#: functions.php:209
+msgid "Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes."
+msgstr "Zerif Lite는 무료 원 페이지 워드프레스 테마입니다. 웹 에이젼시, 비지니스, 기업 비지니스, 개인 및 패럴랙스 비지니스 포토폴리오, 사진 사이트, 프리랜서에 적합합니다. 부트스트랩 기반의 패럴랙스 지원이 포함되며 반응형입니다. 깨끗하고 현대적인 플랫 디자인입니다. Zerif Lite는 이커머스(우커머스) 호환되고 WPML, RTL, 레티나 적합, SEO 친화적이며 전체 화면 이미지가 있어서 아주 우수한 비지니스 테마입니다."
+
+#. Theme Name of the theme
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:83
+msgid "Zerif Lite"
+msgstr "Zerif Lite"
+
+#. Translators: %s: widget title
+#: functions.php:934
+msgid "Go to %s"
+msgstr "%s로 가기"
+
+#. Translators: %s: ThemeIsle link
+#: footer.php:215
+msgid "developed by %s"
+msgstr "개발자: %s"
+
+#: inc/customizer.php:1184
+msgid "You can replace the homepage slider with any plugin you like, just copy the shortcode generated and paste it here."
+msgstr "원하는 플러그인일 이용해 홈페이지 슬라이더를 교체할 수 있습니다. 생성된 단축코드를 복사해 여기에 붙여넣기만 하면 됩니다."
+
+#: inc/customizer.php:1183
+msgid "Slider shortcode"
+msgstr "슬라이더 단축코드"
+
+#: ti-about-page/class-ti-about-page.php:1081
+#: ti-customizer-notify/class-ti-customizer-notify.php:174
+msgid "Activating"
+msgstr "활성화"
+
+#: functions.php:409 functions.php:441 functions.php:494
+msgid "Install and Activate"
+msgstr "설치 및 활성화"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:149
+msgid "Recommended plugins"
+msgstr "권장 플러그인"
+
+#: inc/admin/welcome-screen/welcome-screen.php:230
+#: inc/admin/welcome-screen/sections/getting-started.php:30
+msgid "Getting started"
+msgstr "시작하기"
+
+#. translators: ResponsiveBoat child theme
+#: inc/admin/welcome-screen/sections/child-themes.php:120
+msgid "Get %s now"
+msgstr "지금 %s 받기"
+
+#: functions.php:399
+msgid "Remove \"Zerif Lite developed by ThemeIsle\" copyright from the footer."
+msgstr "푸터에서 \"Zerif Lite powered by ThemeIsle\" 저작권 제거하기."
+
+#: inc/customizer-info/class/class-zerif-customize-upsell.php:73
+msgid "Get it"
+msgstr "지금 받기"
+
+#: inc/customizer.php:858
+msgid "Keep the old static frontpage template?"
+msgstr "이전의 정적인 전면 페이지 템플릿을 유지할까요?"
+
+#: functions.php:284 functions.php:286
+msgid "Recommended actions"
+msgstr "권장 작업"
+
+#: inc/customizer.php:872
+msgid "Blog Header Options"
+msgstr "블로그 헤더 옵션"
+
+#: front-page.php:38 home.php:13 inc/customizer.php:900
+msgid "Zerif supports a custom frontpage"
+msgstr "Zerif는 사용자 정의 전면 페이지를 지원합니다"
+
+#: inc/customizer.php:2188
+msgid "Change this text in BottomButton Ribbon"
+msgstr "하단 버튼 리본에 이 텍스트 변경하기"
+
+#: sections/ribbon_with_right_button.php:16 inc/customizer.php:2259
+msgid "Change this text in RightButton Ribbon"
+msgstr "우측 버튼 리본에 이 텍스트 변경하기"
+
+#. translators: ThemeIsle Companion
+#. translators: ThemeIsle Companion install link
+#: sections/our_focus.php:49 sections/our_focus.php:52
+msgid "You need to install the %s plugin to be able to add Team members, Testimonials, Our Focus and Clients widgets."
+msgstr "Team members, Testimonials, Our Focus, Clients 위젯 등을 추가하려면 %s 플러그인을 설치해야 합니다."
+
+#: inc/customizer.php:2850 footer.php:35
+msgid "youremail@site.com"
+msgstr "youremail@site.com"
+
+#. translators: Pirate Forms plugin install link
+#. translators: PirateForms plugin
+#: content-frontpage.php:107 template-frontpage.php:109 inc/customizer.php:2467
+msgid "You need to install %s to create a contact form."
+msgstr "컨택트 폼을 만들려면 %s을(를) 설치해야 합니다."
+
+#: inc/customizer.php:2912 footer.php:43
+msgid "0 332 548 954"
+msgstr "0 332 548 954"
+
+#: inc/customizer.php:2603
+msgid "Footer options"
+msgstr "푸터 옵션"
+
+#: inc/customizer.php:740
+msgid "Advanced options"
+msgstr "고급 옵션"
+
+#: functions.php:219
+msgid "Useful Plugins"
+msgstr "유용한 플러그인"
+
+#. translators: ThemeIsle Companion install link
+#: functions.php:488
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s"
+msgstr "이 테마가 제공하는 모든 옵션을 이용하려면 %s을(를) 설치하고 활성화 하세요"
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:102
+msgid "Ribbon Section"
+msgstr "리본 영역"
+
+#: inc/customizer.php:157
+msgid "Get full color schemes support for your site."
+msgstr "사이트에 대해 전체 색상 조합 지원받기."
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:101
+#: inc/customizer.php:127
+msgid "Subscribe section"
+msgstr "구독하기 영역"
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:100
+#: inc/customizer.php:126
+msgid "Packages section"
+msgstr "패키지 영역"
+
+#: inc/customizer.php:125 inc/customizer.php:154
+msgid "Extra colors"
+msgstr "기타 색상"
+
+#: inc/customizer.php:123 inc/customizer.php:182
+msgid "Background video"
+msgstr "배경 비디오"
+
+#: inc/customizer.php:122
+msgid "Section Reordering"
+msgstr "영역 순서 변경"
+
+#: functions.php:454
+msgid "Makes your contact page more engaging by creating a good-looking contact form on your website. The interaction with your visitors was never easier."
+msgstr "웹사이트에서 보기 좋은 컨택트 폼을 만들어 컨택트 페이지를 사용자로 하여금 더욱 참여하기 좋게 만들 수 있습니다. 방문자와의 상호작용은 더 이상 쉬울 수 없습니다."
+
+#: functions.php:447
+msgid "It is highly recommended that you install the companion plugin to have access to the frontpage sections widgets."
+msgstr "전면 페이지 영역 위젯에 접근하려면 번들 플러그인을 설치할 것을 권장합니다."
+
+#: functions.php:411 functions.php:443 functions.php:496
+msgid "Deactivate"
+msgstr "비활성화"
+
+#: functions.php:408
+msgid "Version: "
+msgstr "버전: "
+
+#: functions.php:285
+msgid "We have compiled a list of steps for you, to take make sure the experience you will have using one of our products is very easy to follow."
+msgstr "진행할 모든 과정을 종합했으므로 저의 상품을 이용하는 것이 따라하기 쉬울 것입니다."
+
+#: functions.php:247
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "최근 테마 변경의 요약을 받길 원하시나요? 아래의 변경 기록을 참고하면 최근 수정내용과 기능 추가를 살펴볼 수 있습니다."
+
+#: functions.php:227 functions.php:230
+msgid "Contact Support"
+msgstr "지원 문의하기"
+
+#: functions.php:202 functions.php:204
+msgid "About Zerif Lite"
+msgstr "Zerif Lite 소개"
+
+#. translators: %s: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;의 하나의 댓글"
+
+#. translators: Theme Name
+#: functions.php:207
+msgid "Welcome to %s! - Version "
+msgstr "%s에 오신 것을 환영합니다! - 버전 "
+
+#. translators: Older posts arrow
+#. translators: Older post arrow
+#. translators: Older posts navigation arrow
+#: archive.php:61 archive-download.php:60 template-blog.php:63
+#: front-page.php:88 template-blog-large.php:66 home.php:67 search.php:49
+#: index.php:50
+msgid "%s Older posts"
+msgstr "%s 이전 글"
+
+#. translators: Newer posts arrow
+#. translators: Newer post arrow
+#. translators: Newer posts navigation arrow
+#: archive.php:59 archive-download.php:58 template-blog.php:61
+#: front-page.php:86 template-blog-large.php:64 home.php:65 search.php:47
+#: index.php:48
+msgid "Newer posts %s"
+msgstr "다음 글 %s"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "전면 페이지"
+
+#. translators: Testimonials section
+#. translators: Testimonials section link in customizer
+#. translators: Our team section
+#. translators: Our team section in customizer
+#: sections/testimonials.php:48 sections/testimonials.php:51
+#: sections/our_team.php:36 sections/our_team.php:39
+msgid "Add widgets in this area by going to the %s"
+msgstr "%s로 가서 이 영역에 위젯을 추가하세요"
+
+#: inc/customizer.php:2976
+msgid "The preloader is used as a creative way to make waiting a bit less boring for the visitor."
+msgstr "프리로더를 사용하면 방문자가 기다리는데 덜 지루하게 할 수 있는 창의적인 방법이 됩니다."
+
+#: inc/customizer.php:2976
+msgid "The preloader is the circular progress element that first appears on the site. When the loader finishes its progress animation, the whole page elements are revealed."
+msgstr "프리러더는 사이트에 먼저 나타나는 원형 프로그레스 요소입니다. 프리로더가 애니메이션을 완료하면 전체 페이지 요소가 나타납니다."
+
+#: inc/customizer.php:2975
+msgid "With smooth scrolling, it slides down smoothly, so you can see how much it scrolls. This makes it easier to resume reading from where you were before."
+msgstr "부드러운 스크롤은 아래로 부드럽게 슬라이드 되며 얼만큼 스크롤 되는지 볼 수 있습니다. 이것은 이전에 있던 곳에서 읽기를 다시 시작하는 것을 더욱 쉽게 할 수 있습니다."
+
+#: inc/customizer.php:2975
+msgid "Smooth scrolling can be very useful if you read a lot of long pages. Normally, when you press Page Down, the view jumps directly down one page."
+msgstr "부드러운 스크롤은 대용량의 긴 페이지를 읽는데 아주 유용합니다. 일반적으로 페이지 아래로를 누르면 보기 모드가 한 페이지 바로 아래로 이동합니다."
+
+#: inc/customizer.php:2974
+msgid "Web accessibility also benefits others, including older people with changing abilities due to aging."
+msgstr "웹 접근성은 나이드신 분을 포함한 다른 분들에게도 혜택이 있습니다."
+
+#: inc/customizer.php:2974
+msgid "Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web."
+msgstr "웹 접근성은 활동에 장애가 있는 분들이 웹을 사용할 수 있도록 하는 것을 의미합니다. 웹 접근성은 이러한 분들이 웹을 이용해 인지하고 이해하고 둘러볼 수 있으며 웹에 기여할 수 있도록 하는 것을 의미합니다."
+
+#: inc/customizer.php:2973
+msgid "If you are using other scripts like Cyrillic or Greek , you need to check this box to enable the safe fonts for better compatibility."
+msgstr "Cyrillic이나 Greek와 같은 다른 스크립트를 사용하고 있다면 이 체크박스를 체크해 안전 폰트를 더 호환성 있게 할 수 있습니다."
+
+#: inc/customizer.php:2973
+msgid "Zerif Lite main font is Montserrat, which only supports the Latin script."
+msgstr "Zerif Lite의 메인 폰트는 Montserrat이며, Latin 스크립트만 지원합니다.."
+
+#: sections/about_us.php:64 sections/about_us.php:71 sections/about_us.php:78
+#: sections/about_us.php:85 inc/customizer.php:1585 inc/customizer.php:1661
+#: inc/customizer.php:1737 inc/customizer.php:1813
+msgid "Edit skill"
+msgstr "스킬 편집"
+
+#. translators: Our focus section
+#. translators: About us section
+#. translators: Our team section
+#. translators: Our focus section in customizer
+#. translators: Our team section in customizer
+#. translators: About us section in customizer
+#: inc/customizer.php:1345 inc/customizer.php:1476 inc/customizer.php:1987
+#: inc/template-tags.php:276 inc/template-tags.php:317
+#: inc/template-tags.php:479
+msgid "Change this subtitle in %s"
+msgstr "이 소제목을 %s에서 변경하기"
+
+#: sections/big_title.php:48 sections/big_title.php:60 inc/customizer.php:1078
+#: inc/customizer.php:1128
+msgid "Customize this button"
+msgstr "이 버튼을 사용자 정의하기"
+
+#. translators: Big title section
+#. translators: Customizer link for Big title section
+#: inc/customizer.php:1041 inc/template-tags.php:433
+msgid "This piece of text can be changed in %s"
+msgstr "이 텍스트는 %s에서 변경할 수 있습니다"
+
+#: inc/customizer-info/class/class-zerif-customize-upsell.php:95
+msgid "It adds 5 new sections, the ability to re-order existing ones and easily add custom content to frontpage."
+msgstr "5개의 새로운 영역, 기존의 영역 순서변경 기능이 추가됐으며 사용자 정의 콘텐츠를 전면 페이지에 추가할 수 있습니다."
+
+#: inc/customizer-info/class/class-zerif-customize-upsell.php:83
+msgid "It adds a background video and a background slider."
+msgstr "배경 비디오와 배경 슬라이드가 추가됐습니다."
+
+#: functions.php:218 functions.php:492
+msgid "Recommended Actions"
+msgstr "권장 작업"
+
+#: functions.php:961
+msgid "Go to"
+msgstr "가기"
+
+#: functions.php:556
+msgid "Read more about "
+msgstr "소개 더보기 "
+
+#. translators: About use section in customizer
+#. translators: BottomButton Ribbon in customizer
+#. translators: About us section
+#: sections/about_us.php:53 sections/ribbon_with_bottom_button.php:17
+#: inc/customizer.php:1536
+msgid "Change this text in %s"
+msgstr "이 텍스트를 %s에서 변경하기"
+
+#: content-large.php:75 content.php:68
+msgid "[&hellip;]"
+msgstr "[&hellip;]"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2627
+msgid "Activate %2$s"
+msgstr "%2$s 활성화"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2621
+msgid "Update %2$s"
+msgstr "%2$s 업데이트"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2616
+msgid "Install %2$s"
+msgstr "%2$s 설치"
+
+#: class-tgm-plugin-activation.php:2546
+msgid "No plugins to install, update or activate."
+msgstr "설치, 업데이트, 활성화 할 플러그인 없음."
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2355
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1995
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:394
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "설치, 업데이트, 활성화 할 하나 이상의 필수 또는 권장 플러그인이 있습니다."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Updating Plugin: %s"
+msgstr "플러그인 업데이트 중: %s"
+
+#. Template Name of the theme
+msgid "Full width with no title template"
+msgstr "전체폭 제목 없는 템플릿"
+
+#: inc/admin/welcome-screen/sections/github.php:29
+msgid "Get involved at WordPress.org."
+msgstr "WordPress.org에 참여하세요."
+
+#: inc/admin/welcome-screen/sections/github.php:27
+msgid "Are you a polyglot? Want to translate Zerif Lite into your own language?"
+msgstr "번역가이신가요? Zerif Lite를 자신의 언어로 번역하길 원하시나요?"
+
+#: inc/admin/welcome-screen/sections/github.php:16
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "버그를 발견하셨나요? 수정이나 새 기능 요청으로 기여하길 원하시나요?"
+
+#: inc/admin/welcome-screen/sections/github.php:11
+msgid "How can I contribute?"
+msgstr "기여하는 방법?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:269
+msgid "Download Easy Content Types"
+msgstr "Easy Content Types 다운로드"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:259
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr "몇 분만에 Custom Post Types, Taxonomies and Metaboxes 만들기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:258
+msgid "Easy Content Types"
+msgstr "Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:166
+msgid "Install Page Builder by SiteOrigin"
+msgstr "Page Builder by SiteOrigin 설치"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:156
+msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
+msgstr "이 간단한 드래그 앤 드롭 페이지 빌더를 이용해 이미 알고 있고 좋아하는 위젯으로 반응형 페이지 레이아웃을 만드세요."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:155
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder by SiteOrigin"
+
+#: functions.php:274 inc/admin/welcome-screen/sections/getting-started.php:55
+msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "아래의 도움말 문서에서 드래그 앤 드롭 콘텐츠 빌더 플러그인을 이용해 멋진 랜딩 페이지를 쉽게 만드는 방법을 찾을 수 있습니다."
+
+#: functions.php:272 inc/admin/welcome-screen/sections/getting-started.php:54
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "드래그 앤 드롭 콘텐츠 빌더로 랜딩 페이지 만들기"
+
+#: content-large.php:75 content.php:68 sections/latest_news.php:97
+#: sections/latest_news.php:137
+msgid "about "
+msgstr "소개 "
+
+#: inc/customizer.php:2726
+msgid "Footer Content"
+msgstr "푸터 콘텐츠"
+
+#: inc/customizer.php:676 inc/customizer.php:2717 footer.php:202
+msgid "Instagram link"
+msgstr "Instagram 링크"
+
+#: inc/customizer.php:2610
+msgid "Footer Social Icons"
+msgstr "푸터 소셜 아이콘"
+
+#: inc/customizer.php:2744
+msgid "Footer Copyright"
+msgstr "푸터 저작권"
+
+#. translators: Footer area number
+#: functions.php:613
+msgid "Footer area %d"
+msgstr "푸터 영역 %d"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:289
+msgid "Install Revive Old Post"
+msgstr "Revive Old Post 설치"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:279
+msgid "A plugin to share about your old posts on twitter, facebook, linkedin to get more hits for them and keep them alive."
+msgstr "트위터, 페이스북, 링트인의 옛 글을 공유하여 클릭을 더 많이 하고 살아있게 만드는 플러그인."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:278
+msgid "Revive Old Post"
+msgstr "Revive Old Post"
+
+#: sections/latest_news.php:97 sections/latest_news.php:137
+#: inc/admin/welcome-screen/sections/getting-started.php:130
+msgid "Read more"
+msgstr "더 보기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:129
+msgid " At the address below you will find a cool set of original WordPress plugins that can give you great benefits despite being a little lesser known out there."
+msgstr " 아래의 주소에서 세상에 덜 알려졌음에도 큰 혜택을 줄 수 있는 오리지널 워드프레스 플러그인의 쿨한 세트를 찾을 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:128
+msgid "30 Experts Share: The Top *Non-Obvious* WordPress Plugins That'll Make You a Better Blogger"
+msgstr "30명의 전문가가 공유하는 *뻔하지 않은* 최상위 워드프레스 플러그인 - 더 나은 블로거로 만들어줍니다"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:79
+msgid "Find out how to add a search bar in the top menu bar, in an easy way be following the link below."
+msgstr "쉬운 방법으로 상단 메뉴바에 검색 바를 추가하는 방법을 찾으려면 아래의 링크를 따라가세요."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:78
+msgid "Add a search bar in the top menu"
+msgstr "상단 메뉴에 검색 바 추가하기"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:126
+msgid "ResponsiveBoat - Current theme"
+msgstr "ResponsiveBoat - 현재 테마"
+
+#. translators: Zerif Pro name
+#: functions.php:317
+msgid "Get %s now!"
+msgstr "지금 %s 받기!"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:111
+#: inc/admin/welcome-screen/sections/child-themes.php:113
+msgid "ResponsiveBoat"
+msgstr "ResponsiveBoat"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:37
+msgid "Get now"
+msgstr "지금 받기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:123
+msgid "Set up your portfolio section in an easy way be following the link below."
+msgstr "자신의 포트폴리오 영역을 쉽게 설정하려면 아래의 링크를 따라가세요."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:122
+msgid "Configure the portfolio"
+msgstr "포트폴리오 환경설정하기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:61
+msgid "In the below documentation you will find an easy way to translate Zerif Lite into your native language or any other language you need for you site."
+msgstr "아래의 문서에서 Zerif Lite를 사이트에 필요한 자신의 언어나 다른 언어로 번역할 수 있는 쉬운 방법을 찾을 수 있습니다."
+
+#: inc/customizer.php:2410
+msgid "For more advanced settings please go to Settings -> Pirate Forms"
+msgstr "고급 설정은 설정 -> Pirate Forms로 가세요"
+
+#: inc/customizer.php:2072
+msgid "Use pinterest layout?"
+msgstr "핀터레스트 레이아웃 사용?"
+
+#: inc/customizer.php:1921
+msgid "Content"
+msgstr "콘텐츠"
+
+#: inc/customizer.php:1257
+msgid "Image 2"
+msgstr "이미지 2"
+
+#: inc/customizer.php:1235
+msgid "Image 1"
+msgstr "이미지 1"
+
+#: inc/customizer.php:1215
+msgid "Use parallax effect?"
+msgstr "패럴랙스 효과 사용?"
+
+#: inc/customizer.php:1145
+msgid "Green button label"
+msgstr "녹색 버튼 레이블"
+
+#: inc/customizer.php:819
+msgid "Enable accessibility?"
+msgstr "접근성 활성화?"
+
+#: functions.php:222 inc/admin/welcome-screen/welcome-screen.php:235
+msgid "Free VS PRO"
+msgstr "무료와 프로버전"
+
+#: functions.php:221 functions.php:245 functions.php:248
+#: inc/admin/welcome-screen/welcome-screen.php:234
+msgid "Changelog"
+msgstr "변경사항"
+
+#: inc/admin/welcome-screen/welcome-screen.php:233
+msgid "Contribute"
+msgstr "기여하기"
+
+#: inc/admin/welcome-screen/welcome-screen.php:232
+msgid "Child themes"
+msgstr "자식 테마"
+
+#: inc/admin/welcome-screen/welcome-screen.php:231
+msgid "Actions required"
+msgstr "필요한 작업"
+
+#. translators: Welcome page link
+#: inc/admin/welcome-screen/welcome-screen.php:76
+msgid "Get started with Zerif Lite"
+msgstr "Zerif Lite 시작하기"
+
+#. translators: Welcome page link
+#: inc/admin/welcome-screen/welcome-screen.php:75
+msgid "Welcome! Thank you for choosing Zerif Lite! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "환영합니다. Zerif Lite를 선택해주셔서 감사합니다! 저희 테마가 제공하는 최고의 혜택을 받으시려면 %1$s환영 페이지%2$s를 꼭 방문하세요."
+
+#. translators: wordpress.org review page
+#: inc/admin/welcome-screen/sections/github.php:40
+msgid "Rate our theme on %1$sWordPress.org%2$s. We'd really appreciate it!"
+msgstr "%1$sWordPress.org%2$s에서 테마를 평가해주세요. 정말로 감사합니다!"
+
+#: inc/admin/welcome-screen/sections/github.php:38
+msgid "Are you enjoying Zerif Lite?"
+msgstr "Zerif Lite를 좋아하시나요?"
+
+#: inc/admin/welcome-screen/sections/github.php:32
+#: inc/admin/welcome-screen/sections/getting-started.php:60
+msgid "Translate Zerif Lite"
+msgstr "Zerif Lite 번역하기"
+
+#: inc/admin/welcome-screen/sections/github.php:21
+msgid "Zerif Lite on GitHub"
+msgstr "Zerif Lite on GitHub"
+
+#: inc/admin/welcome-screen/sections/github.php:18
+msgid "GitHub is the place to go!"
+msgstr "깃허브로 가보세요!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:249
+msgid "Install Visualizer"
+msgstr "Visualizer 설치하기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:239
+msgid "A simple, easy to use and quite powerful chart tool to create, manage and embed interactive charts into your WordPress posts and pages."
+msgstr "워드프레스 글과 페이지에 대화형 차트를 생성, 관리, 임베드 할 수 있는 아주 강력한 차트 도구를 간단하고 쉽게 사용할 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:238
+msgid "Visualizer: Charts and Graphs"
+msgstr "Visualizer: Charts and Graphs"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:208
+msgid "Install Custom Login Customizer"
+msgstr "Custom Login Customizer 설치하기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:198
+msgid "Login Customizer plugin allows you to easily customize your login page straight from your WordPress Customizer! You can preview your changes before you save them!"
+msgstr "Login Customizer 플러그인은 워드프레스 사용자 정의하기에서 로그인 페이지를 쉽게 사용자 정의할 수 있도록 합니다. 저장하기 전에 변경사항을 미리 볼 수 있습니다!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:197
+msgid "Custom Login Customizer"
+msgstr "Custom Login Customizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:187
+msgid "Install WP Product Review"
+msgstr "WP Product Review 설치하기"
+
+#: functions.php:407 inc/admin/welcome-screen/sections/getting-started.php:160
+#: inc/admin/welcome-screen/sections/getting-started.php:181
+#: inc/admin/welcome-screen/sections/getting-started.php:202
+#: inc/admin/welcome-screen/sections/getting-started.php:221
+#: inc/admin/welcome-screen/sections/getting-started.php:243
+#: inc/admin/welcome-screen/sections/getting-started.php:263
+#: inc/admin/welcome-screen/sections/getting-started.php:283
+#: inc/admin/welcome-screen/sections/getting-started.php:302
+msgid "Already activated"
+msgstr "이미 활성화 됨"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:177
+msgid "Easily turn your basic posts into in-depth reviews with ratings, pros and cons, affiliate links, rich snippets and user reviews."
+msgstr "기본 글을 심화 리뷰로 쉽게 변경할 수 있습니다. 평가, 좋은 점과 나쁜 점, 제휴 링크, 풍부한 코드조각, 사용자 리뷰 등이 포함됩니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:176
+msgid "WP Product Review"
+msgstr "WP Product Review"
+
+#: functions.php:493
+msgid "Recommended Plugins"
+msgstr "권장 플러그인"
+
+#: functions.php:239 functions.php:293
+#: inc/admin/welcome-screen/sections/getting-started.php:142
+msgid "Read full documentation"
+msgstr "전체 문서 보기"
+
+#: functions.php:238 functions.php:294
+#: inc/admin/welcome-screen/sections/getting-started.php:141
+msgid "Need more details? Please check our full documentation for detailed information on how to use Zerif Lite."
+msgstr "더 많은 상세를 원하시나요? Zerif Lite의 상세 정보가 있는 전체 문서를 알아보세요."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:140
+msgid "View full documentation"
+msgstr "전체 문서 보기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:117
+msgid "You don't like the way Zerif Lite looks with its background opacity? No problem. Just remove it using the steps below."
+msgstr "Zerif Lite가 보여주는 배경 투명도를 원하지 않으신가요? 문제 없습니다. 아래의 과정을 이용해 제거할 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:116
+msgid "Remove the opacity"
+msgstr "투명도 제거"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:111
+msgid "Zerif Lite has three page templates available, two for the blog and one for full width pages. To make sure you take full advantage of those page templates, make sure you read the documentation."
+msgstr "Zerif Lite는 3개의 페이지 템플릿이 있습니다. 두 개는 블로그용이고 하나는 전체폭 페이지용입니다. 템플릿을 모두 이용하려면 문서를 꼭 읽어보세요."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:110
+msgid "Change the page template"
+msgstr "페이지 템플릿 변경하기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:105
+msgid "To better suit your site's needs, you can change each section's anchor to what you want. The entire process is described below."
+msgstr "사이트의 필요에 대응하려면 각 영역의 링크를 원하는 것으로 변경할 수 있습니다. 전체 과정은 아래에 설명돼있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:104
+msgid "Change anchors"
+msgstr "링크 변경하기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:99
+msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
+msgstr "탑 메뉴에 전면 페이지 영역을 연결하는 것은 아주 간단합니다. 영역 링크를 메뉴에 배정하기만 하면 됩니다. 아래의 문서에서 좋은 강좌를 찾을 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:98
+msgid "Link Menu to sections"
+msgstr "영역에 메뉴 링크하기"
+
+#: functions.php:265 inc/admin/welcome-screen/sections/getting-started.php:93
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "사이트의 모든 것이 아주 느려질 때 아래의 문서를 보시면 이러한 문제를 일으키는 가장 일반적인 원인을 찾을 수 있고 각 문제에 대해 해결책을 찾을 수 있습니다."
+
+#: functions.php:263 inc/admin/welcome-screen/sections/getting-started.php:92
+msgid "Speed up your site"
+msgstr "사이트 속도 높이기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:73
+msgid "You can turn off the animation effects you see when Zerif Lite loads a section in an easy way with just few changes. Check the documentation below."
+msgstr "Zerif Lite가 영역을 로드 할 때 애니메이션 효과를 끄려면 몇 가지만 쉽게 변경하면 됩니다. 아래의 문서를 참고하세요."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:72
+msgid "Turn off the animations"
+msgstr "애니메이션 끄기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:67
+msgid "In the below documentation you will find an easy way to change the default dimensions for you social icons."
+msgstr "아래의 문서에서 소셜 아이콘의 기본 크기를 쉽게 변경할 수 있는 방법을 찾을 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:66
+msgid "Change dimensions for footer social icons"
+msgstr "푸터 소셜 아이콘 크기 변경"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:85
+msgid "If you are in the position where you want to change the default appearance of the big title section, you may want to replace it with a nice looking slider. This can be accomplished by following the documention below."
+msgstr "큰 제목 영역의 기본 모양을 변경하려면 좋아보이는 슬라이더로 교체할 수 있습니다. 아래의 문서를 보고 만들 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:84
+msgid "Slider in big title section"
+msgstr "큰 제목 영역에 슬라이더"
+
+#: functions.php:257 functions.php:266 functions.php:275
+#: inc/admin/welcome-screen/sections/getting-started.php:50
+#: inc/admin/welcome-screen/sections/getting-started.php:56
+#: inc/admin/welcome-screen/sections/getting-started.php:62
+#: inc/admin/welcome-screen/sections/getting-started.php:68
+#: inc/admin/welcome-screen/sections/getting-started.php:74
+#: inc/admin/welcome-screen/sections/getting-started.php:80
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+#: inc/admin/welcome-screen/sections/getting-started.php:94
+#: inc/admin/welcome-screen/sections/getting-started.php:100
+#: inc/admin/welcome-screen/sections/getting-started.php:106
+#: inc/admin/welcome-screen/sections/getting-started.php:112
+#: inc/admin/welcome-screen/sections/getting-started.php:118
+#: inc/admin/welcome-screen/sections/getting-started.php:124
+msgid "View how to do this"
+msgstr "하는 방법 보기"
+
+#: functions.php:256 inc/admin/welcome-screen/sections/getting-started.php:49
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "테마 파일의 변경을 원하시면 변경사항은 테마의 다음 업데이트 시 덮어쓰기 됩니다. 이를 방지하려면 자식 테마를 만들어야 합니다. 이를 위해서는 아래의 문서를 따라가세요."
+
+#: functions.php:254 inc/admin/welcome-screen/sections/getting-started.php:48
+msgid "Create a child theme"
+msgstr "자식 테마 만들기"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid "FAQ"
+msgstr "자주 묻는 질문"
+
+#: functions.php:302 functions.php:304
+#: inc/admin/welcome-screen/sections/getting-started.php:34
+msgid "Go to Customizer"
+msgstr "사용자 정의하기로 가기"
+
+#: functions.php:303 inc/admin/welcome-screen/sections/getting-started.php:33
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "워드프레스 사용자 정의하기를 이용해 테마의 모든 것을 쉽게 사용자 정의할 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:32
+msgid "Customize everything in a single place."
+msgstr "한 곳에서 모든 것을 사용자 정의하기."
+
+#: functions.php:217
+msgid "Getting Started"
+msgstr "시작하기"
+
+#: functions.php:229 inc/admin/welcome-screen/sections/getting-started.php:22
+msgid "We want to make sure you have the best experience using Zerif Lite and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Zerif Lite, as much as we enjoy creating great products."
+msgstr "Zerif Lite를 이용해 최선의 경험을 얻을 수 있기를 바랍니다. 이곳에 필요한 정보를 모아놓은 이유입니다. 훌륭한 상품을 만드는 즐거움만큼 Zerif Lite를 즐길 수 있기를 기원합니다."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:21
+msgid "Our most popular free one page WordPress theme, Zerif Lite!"
+msgstr "가장 인기있는 원 페이지 워드프레스 테마, Zerif Lite!"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:136
+msgid "Get Zerif PRO now!"
+msgstr "지금 Zerif PRO를 받으세요!"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:128
+msgid "Remove \"Zerif Lite powered by WordPress\" copyright from the footer."
+msgstr "푸터에서 \"Zerif Lite powered by WordPress\" 저작권 제거하기."
+
+#: functions.php:398 inc/admin/welcome-screen/sections/free_pro.php:127
+msgid "No credit footer link"
+msgstr "푸터 크레딧 링크 없음"
+
+#: functions.php:393 inc/admin/welcome-screen/sections/free_pro.php:120
+msgid "Write an original text in each Contact us section field."
+msgstr "문의하기 영역 필드에 텍스트를 입력하세요."
+
+#: functions.php:392 inc/admin/welcome-screen/sections/free_pro.php:119
+msgid "Change labels for the Contact Us section"
+msgstr "문의하기 영역 레이블 변경"
+
+#: functions.php:387 inc/admin/welcome-screen/sections/free_pro.php:112
+msgid "Add pricing tables for your products and use newsletter forms to attract the clients."
+msgstr "자신의 상품에 가격 테이블을 추가하고 고객을 끌어들일 수 있는 뉴스레터 폼을 사용하세요."
+
+#: functions.php:386 inc/admin/welcome-screen/sections/free_pro.php:111
+msgid "Packages/Subscribe sections"
+msgstr "패키지/구독 영역"
+
+#: functions.php:381 inc/admin/welcome-screen/sections/free_pro.php:104
+msgid "You will benefit of our full support for any issues you have with the theme."
+msgstr "테마에서 발생하는 문제에 대해 완전한 지원을 받을 수 있습니다."
+
+#: functions.php:220 functions.php:380 inc/customizer.php:129
+#: inc/admin/welcome-screen/sections/free_pro.php:103
+msgid "Support"
+msgstr "지원"
+
+#: functions.php:375 inc/admin/welcome-screen/sections/free_pro.php:96
+msgid "Apart from static images, you can use videos or sliders on the background."
+msgstr "정적인 이미지와 별개로 배경에 비디오나 슬라이더를 사용할 수 있습니다."
+
+#: functions.php:374 inc/admin/welcome-screen/sections/free_pro.php:95
+msgid "Background slider/video"
+msgstr "배경 슬라이더/비디오"
+
+#: functions.php:369 inc/admin/welcome-screen/sections/free_pro.php:88
+msgid "Arrange the sections by your priorities."
+msgstr "우선 순위로 정렬하세요."
+
+#: functions.php:368 inc/admin/welcome-screen/sections/free_pro.php:87
+msgid "Sections order"
+msgstr "영역 순서"
+
+#: functions.php:363 inc/admin/welcome-screen/sections/free_pro.php:80
+msgid "Showcase your best projects in the portfolio section."
+msgstr "포트폴리오 영역에서 자신의 베스트 프로젝트를 보여주기"
+
+#: functions.php:362
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:99
+#: inc/customizer.php:124 inc/admin/welcome-screen/sections/free_pro.php:79
+msgid "Portfolio"
+msgstr "포트폴리오"
+
+#: functions.php:357 inc/admin/welcome-screen/sections/free_pro.php:72
+msgid "Embed your current location to your website by using a Google map."
+msgstr "구글 지도를 이용해 웹사이트에 자신의 위치를 임베드하세요."
+
+#: functions.php:356
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:103
+#: inc/customizer.php:128 inc/admin/welcome-screen/sections/free_pro.php:71
+msgid "Google map section"
+msgstr "구글 지도 영역"
+
+#: functions.php:351 inc/admin/welcome-screen/sections/free_pro.php:64
+msgid "You can change the colors of each section. You have unlimited options."
+msgstr "각 영역의 색상을 변경할 수 있습니다. 무한 옵션입니다."
+
+#: functions.php:350 inc/admin/welcome-screen/sections/free_pro.php:63
+msgid "Unlimited color option"
+msgstr "무한 색상 옵션"
+
+#: functions.php:345 inc/admin/welcome-screen/sections/free_pro.php:56
+msgid "You can use any background image you want."
+msgstr "원하는 배경 이미지를 사용할 수 있습니다."
+
+#: functions.php:344 inc/admin/welcome-screen/sections/free_pro.php:55
+msgid "Background image"
+msgstr "배경 이미지"
+
+#: functions.php:339 inc/admin/welcome-screen/sections/free_pro.php:48
+msgid "Big title, Our focus, About us, Our team, Testimonials, Ribbons, Latest news, Contat us"
+msgstr "큰 제목, 포커스, 소개, 팀, 추천사, 리본, 최근 뉴스, 문의하기"
+
+#: functions.php:338 inc/customizer.php:959
+#: inc/admin/welcome-screen/sections/free_pro.php:47
+msgid "Frontpage sections"
+msgstr "전면 페이지 영역"
+
+#: functions.php:333 inc/admin/welcome-screen/sections/free_pro.php:40
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "이커머스 준비 완료. 여기서 온라인 상점을 만들 수 있습니다."
+
+#: functions.php:332 inc/admin/welcome-screen/sections/free_pro.php:39
+msgid "WooCommerce Compatible"
+msgstr "우커머스 호환"
+
+#: functions.php:327 inc/admin/welcome-screen/sections/free_pro.php:32
+msgid "Responsive layout. Works on every device."
+msgstr "반응형 레이아웃. 모든 기기에서 작동합니다."
+
+#: functions.php:326 inc/admin/welcome-screen/sections/free_pro.php:31
+msgid "Mobile friendly"
+msgstr "모바일 친화형"
+
+#: functions.php:321 inc/admin/welcome-screen/sections/free_pro.php:24
+msgid "Smooth, catchy and easy scrolling experience."
+msgstr "부드럽고, 눈길을 끄는 쉬운 스크롤 경험."
+
+#: functions.php:320 inc/customizer.php:1197
+#: inc/admin/welcome-screen/sections/free_pro.php:23
+msgid "Parallax effect"
+msgstr "패럴랙스 효과"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:97
+msgid "Zifer Child - Current theme"
+msgstr "Zifer Child - 현재 테마"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:84
+msgid "Zifer"
+msgstr "Zifer"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:82
+msgid "Zifer Child Theme"
+msgstr "Zifer 자식 테마"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:153
+msgid "Zerius - Current theme"
+msgstr "Zerius - 현재 테마"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:140
+msgid "Zerius"
+msgstr "Zerius"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:138
+msgid "Zerius Child Theme"
+msgstr "Zerius 자식 테마"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:70
+msgid "OnePirate - Current theme"
+msgstr "OnePirate - 현재 테마"
+
+#. translators: ZblackBeard install link
+#. translators: Zifer Child install link
+#. translators: Zerius install link
+#: inc/admin/welcome-screen/sections/child-themes.php:64
+#: inc/admin/welcome-screen/sections/child-themes.php:91
+#: inc/admin/welcome-screen/sections/child-themes.php:147
+msgid "Install %s now"
+msgstr "%s 지금 설치하기"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:57
+msgid "OnePirate"
+msgstr "OnePirate"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:55
+msgid "OnePirate Child Theme"
+msgstr "OnePirate 자식 테마"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:44
+#: inc/admin/welcome-screen/sections/child-themes.php:71
+#: inc/admin/welcome-screen/sections/child-themes.php:98
+#: inc/admin/welcome-screen/sections/child-themes.php:127
+#: inc/admin/welcome-screen/sections/child-themes.php:154
+msgid "Customize"
+msgstr "사용자 정의하기"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:43
+msgid "Zblackbeard - Current theme"
+msgstr "Zblackbeard - 현재 테마"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:30
+msgid "ZBlackBeard"
+msgstr "ZBlackBeard"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:28
+msgid "ZBlackBeard Child Theme"
+msgstr "ZBlackBeard 자식 테마"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:18
+msgid "Below you will find a selection of Zerif Lite child themes that will totally transform the look of your site."
+msgstr "아래에서 Zerif Lite 자식 테마 영역을 찾을 수 있으며 사이트의 전체 모양을 변경할 수 있습니다."
+
+#: inc/admin/welcome-screen/sections/child-themes.php:16
+msgid "Get a whole new look for your site"
+msgstr "사이트를 전혀 새로운 모양으로 바꾸세요."
+
+#: inc/admin/welcome-screen/welcome-screen.php:118
+#: inc/admin/welcome-screen/sections/actions-required.php:86
+msgid "Hooray! There are no required actions for you right now."
+msgstr "현재는 필요한 작업이 없습니다."
+
+#: inc/admin/welcome-screen/sections/actions-required.php:11
+msgid "Keep up with Zerif Lite's latest news"
+msgstr "Zerif Lite 최근 뉴스 따라잡기"
+
+#: inc/template-tags.php:530
+msgid "Skip to content"
+msgstr "콘텐츠로 바로가기"
+
+#: functions.php:1701
+msgid "Open links in new window?"
+msgstr "새 창에서 링크 열기?"
+
+#: functions.php:1451
+msgid "Zerif - Team member widget"
+msgstr "Zerif - 팀원 위젯"
+
+#: functions.php:1340 functions.php:1347
+msgid "Client"
+msgstr "고객"
+
+#: functions.php:1306
+msgid "Zerif - Clients widget"
+msgstr "Zerif - 고객 위젯"
+
+#: functions.php:1100
+msgid "Zerif - Testimonial widget"
+msgstr "Zerif - 추천사 위젯"
+
+#: functions.php:1066 functions.php:1271 functions.php:1417 functions.php:1729
+msgid "Uploaded image"
+msgstr "이미지 업로드"
+
+#: functions.php:896
+msgid "Zerif - Our focus widget"
+msgstr "Zerif - 포커스 위젯"
+
+#: functions.php:861
+msgid "Our team section widgets"
+msgstr "팀 영역 위젯"
+
+#: functions.php:857
+msgid "Testimonials section widgets"
+msgstr "추천사 영역 위젯"
+
+#: functions.php:853
+msgid "Our focus section widgets"
+msgstr "포커스 영역 위젯"
+
+#. translators: %s: Name of current post
+#: content-page-no-title.php:17 content-page.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s 더보기 <span class=\"meta-nav\">&rarr;</span>"
+
+#: class-tgm-plugin-activation.php:2770
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "설치할 플러그인이 선택되지 않았습니다. 실행할 작업은 없습니다."
+
+#: class-tgm-plugin-activation.php:2772
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "업데이트 할 플러그인이 선택되지 않았습니다. 실행할 작업은 없습니다."
+
+#: class-tgm-plugin-activation.php:2815
+msgid "No plugins are available to be updated at this time."
+msgstr "현재는 업데이트할 플러그인이 없습니다."
+
+#: class-tgm-plugin-activation.php:2921
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "활성화 할 플러그인이 선택되지 않았습니다. 실행할 작업은 없습니다."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3513
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "플러그인 %1$s 업데이트중 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2697
+msgid "Upgrade message from the plugin author:"
+msgstr "플러그인 제작자의 업그레이드 메시지:"
+
+#: class-tgm-plugin-activation.php:2736
+msgid "Update"
+msgstr "업데이트"
+
+#: class-tgm-plugin-activation.php:2566
+msgid "Version"
+msgstr "버전"
+
+#: class-tgm-plugin-activation.php:2511
+msgid "Minimum required version:"
+msgstr "최소 필요 버전:"
+
+#: class-tgm-plugin-activation.php:2503
+msgid "Installed version:"
+msgstr "설치된 버전:"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "알 수 없음"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2413
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "활성화 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2523
+msgid "Available version:"
+msgstr "가능한 버전:"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2409
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "업데이트 가능 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2405
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "설치 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2401
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "모두 <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2346
+msgid "Update recommended"
+msgstr "업데이트 권장됨"
+
+#: class-tgm-plugin-activation.php:2343
+msgid "Requires Update"
+msgstr "업데이트 필요"
+
+#: class-tgm-plugin-activation.php:2340
+msgid "Required Update not Available"
+msgstr "필요한 업데이트가 가능하지 않습니다"
+
+#: class-tgm-plugin-activation.php:2334
+msgid "Active"
+msgstr "활성"
+
+#: class-tgm-plugin-activation.php:2308
+msgid "External Source"
+msgstr "외부 출처"
+
+#: class-tgm-plugin-activation.php:1129 class-tgm-plugin-activation.php:2961
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "및"
+
+#: class-tgm-plugin-activation.php:941
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "원격 플러그인 패키지가 하나 이상의 파일로 구성되나 파일이 하나의 폴더에 패키지 되지 않았습니다."
+
+#: class-tgm-plugin-activation.php:933 class-tgm-plugin-activation.php:941
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "플러그인 제공자에게 연락하여 워드프레스 가이드라인에 따른 플러그인 패키지를 요청하세요."
+
+#: class-tgm-plugin-activation.php:933
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "원격 플러그인이 요구되는 슬러그가 있는 폴더를 포함하고 있지 않습니다. 이름 변경은 작동되지 않습니다."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "업데이트 필요함"
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "이 플러그인은 테마와 호환되려면 업데이트가 필요합니다."
+
+#: class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr "도움이 필요하면 이 사이트의 관리자에게 연락하세요."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "플러그인이 활성화 되지 않았습니다. 이 테마는 %s의 높은 버전이 필요합니다. 플러그인을 업데이트 하세요."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:388
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "실행할 작업이 없습니다. %1$s는 이미 활성 상태입니다."
+
+#: class-tgm-plugin-activation.php:373
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "플러그인 업데이트 시작하기"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:350
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "다음 플러그인의 업데이트가 가능합니다: %1$s."
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "전체 폭 페이지"
+
+#: front-page.php:37 home.php:12 inc/customizer.php:881
+msgid "Blog"
+msgstr "블로그"
+
+#. Author of the theme
+#. Translators: %s: ThemeIsle link
+#: footer.php:215
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#: sidebar.php:40
+msgid "Meta"
+msgstr "메타"
+
+#: sections/latest_news.php:174
+msgid "Next"
+msgstr "다음"
+
+#: sections/latest_news.php:167
+msgid "Previous"
+msgstr "이전"
+
+#: inc/template-tags.php:392
+msgid "Latest news"
+msgstr "최근 뉴스"
+
+#. translators: Search query
+#: search.php:30
+msgid "Search Results for: %s"
+msgstr "검색 결과 : %s"
+
+#. translators: 1 - Publish date, 2 - Author
+#: inc/template-tags.php:78
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">작성일자 %1$s </ SPAN> <span class=\"byline\">글쓴이 %2$s </span>"
+
+#: single.php:30 inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:31 inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:31
+msgid "Post navigation"
+msgstr "글 내비게이션"
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:106
+#: inc/customizer.php:100 inc/customizer.php:132 inc/customizer.php:160
+#: inc/customizer.php:185
+#: inc/customizer-info/class/class-zerif-customize-upsell.php:71
+#: inc/customizer-info/class/class-zerif-customize-upsell.php:83
+#: inc/customizer-info/class/class-zerif-customize-upsell.php:95
+msgid "View PRO version"
+msgstr "프로 버전 보기"
+
+#: functions.php:236 functions.php:295
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:85
+msgid "Documentation"
+msgstr "문서"
+
+#: inc/customizer.php:2586
+msgid "Secret key"
+msgstr "비밀키"
+
+#: inc/customizer.php:2569
+msgid "Create an account here"
+msgstr "여기서 계정을 만드세요"
+
+#: inc/customizer.php:2568
+msgid "Site key"
+msgstr "사이트 키"
+
+#: inc/customizer.php:2550
+msgid "Hide reCaptcha?"
+msgstr "reCaptcha 감추기?"
+
+#: inc/customizer.php:2524
+msgid "Send Message"
+msgstr "메시지 보내기"
+
+#: inc/customizer.php:2514
+msgid "Email address"
+msgstr "이메일 주소"
+
+#: inc/customizer.php:2479
+msgid "Contact us section subtitle"
+msgstr "문의하기 영역 부제목"
+
+#: inc/customizer.php:2458
+msgid "Contact us section title"
+msgstr "문의하기 영역 제목"
+
+#: content-frontpage.php:94 sections/ribbon_with_right_button.php:17
+#: sections/ribbon_with_bottom_button.php:18 template-frontpage.php:96
+#: inc/customizer.php:2189 inc/customizer.php:2260 inc/customizer.php:2446
+msgid "Get in touch"
+msgstr "연락주세요"
+
+#: inc/customizer.php:2439
+msgid "Hide contact us section?"
+msgstr "문의하기 영역 감추기?"
+
+#: inc/customizer.php:2416
+msgid "Contact us section"
+msgstr "문의하기 영역"
+
+#: inc/customizer.php:2267
+msgid "RightButton Ribbon"
+msgstr "우측 버튼 리본"
+
+#: inc/customizer.php:2245 inc/customizer.php:2325
+msgid "Button link"
+msgstr "버튼 링크"
+
+#: inc/customizer.php:2226 inc/customizer.php:2306 inc/customizer.php:2532
+msgid "Button label"
+msgstr "버튼 레이블"
+
+#. translators: BottomButton Ribbon in customizer
+#: sections/ribbon_with_bottom_button.php:17 inc/customizer.php:2174
+msgid "BottomButton Ribbon"
+msgstr "하단 버튼 리본"
+
+#: inc/customizer.php:2152 inc/customizer.php:2165
+msgid "Ribbon sections"
+msgstr "리본 영역"
+
+#: inc/customizer.php:2396
+msgid "Latest News subtitle"
+msgstr "최근 뉴스 부제목"
+
+#: inc/customizer.php:2378
+msgid "Latest News title"
+msgstr "최근 뉴스 제목"
+
+#: inc/customizer.php:2360
+msgid "Hide latest news section?"
+msgstr "최근 뉴스 영역 감추기?"
+
+#: inc/customizer.php:2338
+msgid "Latest News section"
+msgstr "최근 뉴스 영역"
+
+#: inc/customizer.php:2119
+msgid "Testimonials subtitle"
+msgstr "추천사 부제목"
+
+#: inc/customizer.php:2084 inc/template-tags.php:341
+msgid "Testimonials"
+msgstr "추천사"
+
+#: inc/customizer.php:2054
+msgid "Hide testimonials section?"
+msgstr "추천사 영역 감추기?"
+
+#: inc/customizer.php:2004
+msgid "Our team subtitle"
+msgstr "팀 부제목"
+
+#: inc/customizer.php:1957 inc/template-tags.php:296
+msgid "YOUR TEAM"
+msgstr "팀"
+
+#: inc/customizer.php:1945
+msgid "Hide our team section?"
+msgstr "팀 영역 감추기?"
+
+#: inc/customizer.php:1908
+msgid "Clients area"
+msgstr "고객 영역"
+
+#: inc/customizer.php:1866
+msgid "Feature no4 percentage"
+msgstr "특징 no4 퍼센트"
+
+#: inc/customizer.php:1846
+msgid "Feature no4 text"
+msgstr "특징 no4 텍스트"
+
+#: inc/customizer.php:1829
+msgid "Feature no4 title"
+msgstr "특징 no4 제목"
+
+#: inc/customizer.php:1801
+msgid "Feature no#4"
+msgstr "특징 no#4"
+
+#: inc/customizer.php:1791
+msgid "Feature no3 percentage"
+msgstr "특징 no3 퍼센트"
+
+#: inc/customizer.php:1771
+msgid "Feature no3 text"
+msgstr "특징 no3 텍스트"
+
+#: inc/customizer.php:1754
+msgid "Feature no3 title"
+msgstr "특징 no3 제목"
+
+#: inc/customizer.php:1725
+msgid "Feature no#3"
+msgstr "특징 no#3"
+
+#: inc/customizer.php:1715
+msgid "Feature no2 percentage"
+msgstr "특징 no2 퍼센트"
+
+#: inc/customizer.php:1695
+msgid "Feature no2 text"
+msgstr "특징 no2 텍스트"
+
+#: inc/customizer.php:1678
+msgid "Feature no2 title"
+msgstr "특징 no2 제목"
+
+#: inc/customizer.php:1649
+msgid "Feature no#2"
+msgstr "특징 no#2"
+
+#: inc/customizer.php:1639
+msgid "Feature no1 percentage"
+msgstr "특징 no1 퍼센트"
+
+#: inc/customizer.php:1619
+msgid "Feature no1 text"
+msgstr "특징 no1 텍스트"
+
+#: inc/customizer.php:1602
+msgid "Feature no1 title"
+msgstr "특징 no1 제목"
+
+#: inc/customizer.php:1573
+msgid "Feature no#1"
+msgstr "특징 no#1"
+
+#: inc/customizer.php:1527
+msgid "Big left side title"
+msgstr "큰 좌측 제목"
+
+#: inc/customizer.php:909 inc/customizer.php:1493
+msgid "Subtitle"
+msgstr "부제목"
+
+#: inc/customizer.php:1446 inc/template-tags.php:458
+msgid "About"
+msgstr "소개"
+
+#: inc/customizer.php:1000 inc/customizer.php:1415
+msgid "Main content"
+msgstr "메인 콘텐츠"
+
+#: inc/customizer.php:1434
+msgid "Hide about us section?"
+msgstr "소개 영역 감추기?"
+
+#: inc/customizer.php:1362
+msgid "Our focus subtitle"
+msgstr "포커스 부제목"
+
+#: inc/customizer.php:1316 inc/template-tags.php:254
+msgid "FEATURES"
+msgstr "특징"
+
+#: inc/customizer.php:1294
+msgid "Hide our focus section?"
+msgstr "포커스 영역 감추기?"
+
+#: inc/customizer.php:1163
+msgid "Green button link"
+msgstr "녹색 버튼 링크"
+
+#: inc/customizer.php:1113
+msgid "Red button link"
+msgstr "빨간 버튼 링크"
+
+#: inc/customizer.php:1095
+msgid "Red button label"
+msgstr "빨간 버튼 레이블"
+
+#: inc/customizer.php:1019
+msgid "Hide big title section?"
+msgstr "큰 제목 영역 감추기?"
+
+#. translators: Big title section
+#. translators: Customizer link for Big title section
+#: inc/customizer.php:977 inc/customizer.php:990 inc/customizer.php:1041
+#: inc/template-tags.php:433
+msgid "Big title section"
+msgstr "큰 제목 영역"
+
+#: inc/customizer.php:2805
+msgid "Address"
+msgstr "주소"
+
+#: inc/customizer.php:2775
+msgid "Address section - icon"
+msgstr "주소 영역 - 아이콘"
+
+#: inc/customizer.php:2929
+msgid "Phone number"
+msgstr "전화번호"
+
+#: inc/customizer.php:2899
+msgid "Phone number section - icon"
+msgstr "전화번호 영역 - 아이콘"
+
+#: inc/customizer.php:2867
+msgid "Email"
+msgstr "이메일"
+
+#: inc/customizer.php:2837
+msgid "Email section - icon"
+msgstr "이메일 영역 - 아이콘"
+
+#: inc/customizer.php:2699
+msgid "Dribbble link"
+msgstr "Dribbble 링크"
+
+#: inc/customizer.php:801
+msgid "Disable smooth scroll?"
+msgstr "브드러운 스크롤 비활성화?"
+
+#: inc/customizer.php:783
+msgid "Disable preloader?"
+msgstr "프리로더 비활성화?"
+
+#: inc/customizer.php:748
+msgid "General options"
+msgstr "일반 옵션"
+
+#: header.php:73
+msgid "Toggle navigation"
+msgstr "내비게이션 토글"
+
+#. translators: ZblackBeard install link
+#. translators: Zifer Child install link
+#. translators: ResponsiveBoat child theme
+#. translators: Zerius install link
+#: inc/admin/welcome-screen/sections/child-themes.php:38
+#: inc/admin/welcome-screen/sections/child-themes.php:65
+#: inc/admin/welcome-screen/sections/child-themes.php:92
+#: inc/admin/welcome-screen/sections/child-themes.php:121
+#: inc/admin/welcome-screen/sections/child-themes.php:148
+msgid "Live Preview"
+msgstr "실시간 미리보기"
+
+#: functions.php:1580 functions.php:1689 inc/customizer.php:649
+#: inc/customizer.php:2663 footer.php:190
+msgid "Linkedin link"
+msgstr "Linkedin 링크"
+
+#: functions.php:1569 functions.php:1681 inc/customizer.php:667 footer.php:198
+msgid "Dribble link"
+msgstr "Dribble 링크"
+
+#: functions.php:1558 functions.php:1673 inc/customizer.php:658
+#: inc/customizer.php:2681 footer.php:194
+msgid "Behance link"
+msgstr "Behance 링크"
+
+#: functions.php:1547 functions.php:1665 inc/customizer.php:640
+#: inc/customizer.php:2646 footer.php:186
+msgid "Twitter link"
+msgstr "트위터 링크"
+
+#: functions.php:1534 functions.php:1657 inc/customizer.php:631
+#: inc/customizer.php:2628 footer.php:182
+msgid "Facebook link"
+msgstr "Facebook 링크"
+
+#: functions.php:1649
+msgid "Description"
+msgstr "설명"
+
+#: functions.php:1641
+msgid "Position"
+msgstr "위치"
+
+#: functions.php:1633
+msgid "Name"
+msgstr "이름"
+
+#: functions.php:1231
+msgid "Author details"
+msgstr "글쓴이 상세"
+
+#: functions.php:1223
+msgid "Author link"
+msgstr "글쓴이 링크"
+
+#: functions.php:1215
+msgid "Author"
+msgstr "글쓴이"
+
+#: functions.php:1074 functions.php:1279 functions.php:1425 functions.php:1737
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: functions.php:1042 functions.php:1247 functions.php:1391 functions.php:1705
+msgid "Image"
+msgstr "이미지"
+
+#: functions.php:1034 functions.php:1383
+msgid "Link"
+msgstr "링크"
+
+#: functions.php:1026 functions.php:1239 inc/customizer.php:1564
+#: inc/customizer.php:2207 inc/customizer.php:2287
+msgid "Text"
+msgstr "텍스트"
+
+#: functions.php:1018 inc/customizer.php:890 inc/customizer.php:1058
+#: inc/customizer.php:1332 inc/customizer.php:1463 inc/customizer.php:1895
+#: inc/customizer.php:1974 inc/customizer.php:2101
+msgid "Title"
+msgstr "제목"
+
+#: functions.php:818
+msgid "Default title"
+msgstr "기본 제목"
+
+#: class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr "플러그인 API에 에러가 있습니다."
+
+#: functions.php:645
+msgctxt "Monserrat font: on or off"
+msgid "on"
+msgstr "켜기"
+
+#: functions.php:638
+msgctxt "Homemade font: on or off"
+msgid "on"
+msgstr "켜기"
+
+#: functions.php:637
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "켜기"
+
+#. translators: Our team section
+#. translators: Our team section in customizer
+#: sections/our_team.php:36 sections/our_team.php:39 inc/customizer.php:1987
+#: inc/customizer.php:2018 inc/template-tags.php:317
+msgid "Our team section"
+msgstr "팀 영역"
+
+#. translators: About use section in customizer
+#. translators: About us section
+#. translators: About us section in customizer
+#: functions.php:600 sections/about_us.php:53 inc/customizer.php:1393
+#: inc/customizer.php:1406 inc/customizer.php:1476 inc/customizer.php:1536
+#: inc/template-tags.php:479
+msgid "About us section"
+msgstr "소개 영역"
+
+#. translators: Testimonials section
+#. translators: Testimonials section link in customizer
+#: sections/testimonials.php:48 sections/testimonials.php:51
+#: inc/customizer.php:2032 inc/customizer.php:2133
+msgid "Testimonials section"
+msgstr "추천사 영역"
+
+#. translators: Our focus section
+#. translators: Our focus section in customizer
+#: inc/customizer.php:1272 inc/customizer.php:1345 inc/customizer.php:1375
+#: inc/template-tags.php:276
+msgid "Our focus section"
+msgstr "포커스 영역"
+
+#: functions.php:589
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: functions.php:79 functions.php:1876
+msgid "Primary Menu"
+msgstr "주 메뉴"
+
+#: inc/customizer.php:2788 footer.php:27
+msgid "Company address"
+msgstr "회사 주소"
+
+#. translators: 1 - Categories list, 2 - Tags list, 3- Permalink
+#: content-single.php:70
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "카테고리 %1$s. <a href=\"%3$s\" rel=\"bookmark\">고유주소</a> 북마크."
+
+#. translators: 1 - Categories list, 2 - Tags list, 3- Permalink
+#: content-single.php:66
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "카테고리 %1$s 태그 %2$s. <a href=\"%3$s\" rel=\"bookmark\">고유주소</a> 북마크."
+
+#. translators: Permalink
+#: content-single.php:58
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "<a href=\"%3$s\" rel=\"bookmark\">고유주소</a> 북마크."
+
+#. translators: Permalink
+#: content-single.php:54
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "태그 %2$s. <a href=\"%3$s\" rel=\"bookmark\">고유주소</a> 북마크."
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾고 있는 것을 찾을 수 없는 것 같습니다. 검색이 도움될 수도 있습니다."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송하지만 검색어와 일치하는 것이 없습니다. 다른 검색어로 다시 시도해보세요."
+
+#. translators: Add new post link
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫번째 글을 발행할 준비가 됐나요? <a href=\"%1$s\">여기서 시작하세요</a>."
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "찾을 수 없습니다"
+
+#: content-large.php:154 content.php:125 content-page-no-title.php:33
+#: content-page.php:43 content-single.php:85
+msgid "Edit"
+msgstr "편집"
+
+#: content-large.php:150 content.php:120
+msgid "% Comments"
+msgstr "댓글 %개"
+
+#: content-large.php:150 content.php:120
+msgid "1 Comment"
+msgstr "댓글 한 개"
+
+#: content-large.php:150 content.php:120
+msgid "Leave a comment"
+msgstr "댓글 남기기"
+
+#. translators: Tags list
+#: content-large.php:140 content.php:110
+msgid "Tagged %1$s"
+msgstr "태그 %1$s"
+
+#. translators: Categories list
+#. Translators: Categories list
+#: content-large.php:122 content.php:95
+msgid "Posted in %1$s"
+msgstr "카테고리 %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-large.php:114 content-large.php:132 content.php:88 content.php:103
+#: content-single.php:43 content-single.php:47
+msgid ", "
+msgstr ", "
+
+#: content-large.php:82 content.php:75 content-page-no-title.php:24
+#: content-page.php:34 content-single.php:29
+msgid "Pages:"
+msgstr "페이지:"
+
+#: comments.php:97
+msgid "Comments are closed."
+msgstr "댓글은 닫혔습니다."
+
+#: comments.php:55 comments.php:84
+msgid "Newer Comments &rarr;"
+msgstr "새 댓글 &rarr;"
+
+#: comments.php:53 comments.php:82
+msgid "&larr; Older Comments"
+msgstr "&larr; 이전 댓글"
+
+#: comments.php:51 comments.php:80
+msgid "Comment navigation"
+msgstr "댓글 내비게이션"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;에 대한 %1$s개의 생각"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3535
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "플러그인 %1$s 설치중 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3533
+msgid "All installations have been completed."
+msgstr "설치가 모두 완료되었습니다."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3532
+msgid "%1$s installed successfully."
+msgstr "$1$s 설치 성공."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3518
+msgid "The installation of %1$s failed."
+msgstr "%1$s 설치 실패."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3516
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s 설치 중에 오류가 발생했습니다: <strong>%2$s</strong>"
+
+#: class-tgm-plugin-activation.php:3530
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "설치 과정이 시작됐습니다. 이 과정은 호스팅 환경에 따라 시간이 걸릴 수 있으니 잠시만 기다려 주세요."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3527
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "플러그인  %1$s 설치 및 활성화중 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3525
+msgid "All installations and activations have been completed."
+msgstr "설치와 활성화가 모두 완료되었습니다."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3524 class-tgm-plugin-activation.php:3532
+msgid "Hide Details"
+msgstr "세부사항 숨기기"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3524 class-tgm-plugin-activation.php:3532
+msgid "Show Details"
+msgstr "세부사항 보기"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3524
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 설치 및 활성화에 성공했습니다."
+
+#: class-tgm-plugin-activation.php:3522
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "설치 및 활성화 과정이 시작됐습니다. 이 과정은 호스팅 환경에 따라 시간이 좀 소요될 수 있으니 잠시 기다려 주세요."
+
+#: class-tgm-plugin-activation.php:3171
+msgid "Plugin activation failed."
+msgstr "플러그인 활성화에 실패했습니다."
+
+#: class-tgm-plugin-activation.php:2947
+msgid "No plugins are available to be activated at this time."
+msgstr "현재는 활성화 할 플러그인이 없습니다."
+
+#: class-tgm-plugin-activation.php:2813
+msgid "No plugins are available to be installed at this time."
+msgstr "현재는 설치할 플러그인이 없습니다."
+
+#: class-tgm-plugin-activation.php:2567
+msgid "Status"
+msgstr "상태"
+
+#: class-tgm-plugin-activation.php:2562
+msgid "Type"
+msgstr "타입"
+
+#: class-tgm-plugin-activation.php:2561
+msgid "Source"
+msgstr "출처"
+
+#: class-tgm-plugin-activation.php:2560
+msgid "Plugin"
+msgstr "플러그인"
+
+#: functions.php:410 functions.php:442 functions.php:495
+#: class-tgm-plugin-activation.php:2739
+msgid "Activate"
+msgstr "활성화"
+
+#: class-tgm-plugin-activation.php:2730
+#: inc/admin/welcome-screen/sections/getting-started.php:227
+#: inc/admin/welcome-screen/sections/getting-started.php:308
+msgid "Install"
+msgstr "설치"
+
+#: class-tgm-plugin-activation.php:2332
+msgid "Installed But Not Activated"
+msgstr "설치는 되었으나 비활성화"
+
+#: class-tgm-plugin-activation.php:2328
+msgid "Not Installed"
+msgstr "미설치"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "Recommended"
+msgstr "권장됨"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Required"
+msgstr "필수"
+
+#: class-tgm-plugin-activation.php:2305
+msgid "WordPress Repository"
+msgstr "워드프레스 저장소"
+
+#: class-tgm-plugin-activation.php:2311
+msgid "Pre-Packaged"
+msgstr "미리 패키지 됨"
+
+#: class-tgm-plugin-activation.php:384 class-tgm-plugin-activation.php:825
+#: class-tgm-plugin-activation.php:2546 class-tgm-plugin-activation.php:3595
+msgid "Return to the Dashboard"
+msgstr "알림판으로 돌아가기"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr "이 알림 무시"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:392
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "모든 플러그인이 성공적으로 설치되고 활성화되었습니다. %1$s"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:2965
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "다음 플러그인이 성공적으로 활성화되었습니다."
+
+#: class-tgm-plugin-activation.php:385 class-tgm-plugin-activation.php:3172
+msgid "Plugin activated successfully."
+msgstr "플러그인이 성공적으로 활성화되었습니다."
+
+#: class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "필수 플러그인 설치로 돌아가기"
+
+#: class-tgm-plugin-activation.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "플러그인 활성화 시작하기"
+
+#: class-tgm-plugin-activation.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "플러그인 설치 시작하기"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:344
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "다음 플러그인은 이 테마와 최적의 호환성을 보장하려면 최신 버전으로 업데이트 해야 합니다: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:362
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "다음 권장 플러그인이 현재 비활성 상태입니다: %1$s"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:356
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "다음 필수 플러그인이 현재 비활성 상태입니다: %1$s"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:338
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "이 테마는 다음 플러그인을 권장 합니다: %1$s"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:332
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "이 테마는 다음 플러그인을 필요로 합니다: %1$s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:328
+msgid "Installing Plugin: %s"
+msgstr "플러그인 설치중: %s"
+
+#: class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr "플러그인 설치"
+
+#: class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr "필수 플러그인 설치하기"
+
+#: sidebar.php:25
+msgid "Archives"
+msgstr "글 보관함"
+
+#: inc/template-tags.php:174
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "이 위치에서 아무 것도 찾을 수 없을 것 같습니다. 아래의 링크 또는 검색 중 하나를 하세요."
+
+#: inc/template-tags.php:163
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "이런! 해당 페이지를 찾을 수 없습니다."
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/zerif-lite/"
+msgstr "http://themeisle.com/themes/zerif-lite/"

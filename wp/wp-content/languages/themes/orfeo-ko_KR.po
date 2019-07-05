@@ -1,0 +1,63 @@
+# Translation of Themes - Orfeo in Korean
+# This file is distributed under the same license as the Themes - Orfeo package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-29 12:25:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Orfeo\n"
+
+#. Theme Name of the plugin/theme
+msgid "Orfeo"
+msgstr "Orfeo"
+
+#. #-#-#-#-#  orfeo.pot (Orfeo 1.0.6)  #-#-#-#-#
+#. Description of the plugin/theme
+#: functions.php:388
+msgid "Orfeo is a responsive WordPress theme with multipurpose design. It is a good fit for both small businesses and corporate businesses, as it is highly customizable via the Live Customizer. You can use Orfeo for restaurants, startups, freelancer resume, creative agencies, portfolios, WooCommerce, or niches like sports, medical, blogging, fashion, lawyer sites etc. It has a one-page design, Sendinblue newsletter integration, widgetized footer, and a clean appearance. The theme is compatible with Elementor Page Builder, Photo Gallery, Flat Parallax Slider, and Travel Map; it is mobile friendly and optimized for SEO."
+msgstr "Orfeo는 다용도 디자인의 반응형 워드프레스 테마입니다. 작은 비지니스와 기업 비지니스 사이트에 적합하며 Live Customizer를 통해 사용자 정의가 아주 편리합니다. Orfeo를 사용하면 레스토랑 스타트업, 프리랜서 이력서, 창의적인 에이전시, 포트폴리오, 우커머스, 스포츠, 의료, 블로깅, 패션, 법률 사이트를 만들 수 있습니다. 원페이지 디자인, Sendinblue 뉴스레터 결합, 위젯화 푸터, 깨끗한 모양 등이 가능합니다. 이 테마는 Elementor Page Builder, Photo Gallery, Flat Parallax Slider, Travel Map 등과 호환됩니다. 모바일 친화적이며 SEO에 최적화 돼있습니다."
+
+#. translators: s - theme name
+#: functions.php:384
+msgid "Welcome to %s! - Version "
+msgstr "%s에 오신 것을 환영합니다! - 버전 "
+
+#: functions.php:375 functions.php:379
+msgid "About Orfeo"
+msgstr "Orfeo 소개"
+
+#: functions.php:298
+msgid "Read more"
+msgstr "더 읽기"
+
+#: functions.php:142
+msgid "First button text"
+msgstr "첫 번째 버튼 텍스트"
+
+#: functions.php:124 functions.php:144
+msgid "Second button text"
+msgstr "두 번째 버튼 텍스트"
+
+#: functions.php:98
+msgid "Second Button URL"
+msgstr "두 번째 버튼 URL"
+
+#: functions.php:73 functions.php:80
+msgid "Second Button text"
+msgstr "두 번째 버튼 텍스트"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/orfeo/"
+msgstr "https://themeisle.com/themes/orfeo/"
